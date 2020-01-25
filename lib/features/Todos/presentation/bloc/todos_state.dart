@@ -8,3 +8,9 @@ class InitialTodosState extends TodosState {
   @override
   List<Object> get props => [];
 }
+
+class LoadTodoState extends TodosState {
+  @override
+  // TODO: implement props
+  List<Object> get props => [];
+}
